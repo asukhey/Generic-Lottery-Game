@@ -10,7 +10,7 @@ Program opens with a menu holding 4 options:
 
 1. **Instructions**: This command displays how a game is to be played. The instruction statements is followed by menu.
 
-![Instructions](/OP/0.Instructions.png)
+![Instructions](https://github.com/asukhey/Generic-Lottery-Game/blob/master/OP/0.Instructions.PNG)
 
 2. **Pick 3 without fireball**: This option lets a user pick 3 numbers from 0 - 9, if the numbers match the ones randomly drawn, that user wins $100. User is then asked if interested to play again and returns to menu if typed 'y'. The following images displays instances of the prior and otherwise.
 
