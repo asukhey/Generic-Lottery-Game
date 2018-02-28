@@ -1,7 +1,7 @@
 # Generic Local Lottery Game
 
 ## Aim:
-As a rudimentary This CLI program was casually developed to implement random all three types of program control i.e sequential, selection and repetition. Along with that, this was also to understand initialization and performing operations on data structures (lists).
+A CLI program that was casually developed to implement all three types of program control i.e sequential, selection and repetition. Along with that, this was also to understand initialization and performing operations on data structures (lists).
 
 **Requrements: Supports Python 3**
 
